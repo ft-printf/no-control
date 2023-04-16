@@ -1,0 +1,9 @@
+.vscode/launch.json
+.vscode/tasks.json
+compile_commands.json
+
+.cache
+*.dSYM
+*.o
+*.a
+*.part.json
